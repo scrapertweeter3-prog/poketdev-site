@@ -1,1 +1,12 @@
-# Poket Dev\n\nFlat-rate unlimited development subscriptions. One queue, no estimate theater, transparent scope.\n\nSite: https://www.poketdev.com\n\nRelated workshop projects:\n- AI guides: https://pastagi.com\n- Side hustles: https://extrahustles.com# poketdev-site
+# Poket Dev
+
+Flat-rate unlimited development subscriptions. One queue, no estimate theater, transparent scope.
+
+Website: https://www.poketdev.com
+
+Related workshop projects:
+- AI guides: https://pastagi.com
+- Side hustles: https://extrahustles.com
+- FIRE math: https://firenomics.com
+- BIFL reviews: https://durablepicks.com
+- Biohacking: https://hackedself.com
