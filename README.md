@@ -1,0 +1,1 @@
+# Poket Dev\n\nFlat-rate unlimited development subscriptions. One queue, no estimate theater, transparent scope.\n\nSite: https://www.poketdev.com\n\nRelated workshop projects:\n- AI guides: https://pastagi.com\n- Side hustles: https://extrahustles.com# poketdev-site
